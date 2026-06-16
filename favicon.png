@@ -1,0 +1,59 @@
+<svg width="100%" height="100%" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Yellow Background as shown in the 1st photo -->
+  <rect width="800" height="800" fill="#FFCE00" />
+  
+  <!-- Clean, elegant modern stencil logotype "CASHOMETRY" -->
+  <g stroke="#000000" stroke-width="14" stroke-linecap="butt" stroke-linejoin="miter" fill="none" transform="translate(0, 320)">
+    <!-- C (translated to X=40, Y=30) -->
+    <g transform="translate(40, 30)">
+      <path d="M 52,15 A 35,35 0 1,0 52,85" />
+    </g>
+    
+    <!-- A (translated to X=112, Y=30) -->
+    <g transform="translate(112, 30)">
+      <path d="M 15,85 L 35,15 M 35,15 L 55,85 M 22,55 H 30 M 40,55 H 48" />
+    </g>
+    
+    <!-- S (translated to X=184, Y=30) -->
+    <g transform="translate(184, 30)">
+      <path d="M 55,20 C 55,15 42,15 35,15 C 23,15 18,22 18,32 C 18,44 28,47 38,49 L 55,52" />
+      <path d="M 15,80 C 15,85 28,85 35,85 C 47,85 52,78 52,68 C 52,56 42,53 32,51 L 15,48" />
+    </g>
+    
+    <!-- H (translated to X=256, Y=30) -->
+    <g transform="translate(256, 30)">
+      <path d="M 15,15 V 85 M 55,15 V 85 M 15,50 H 26 M 44,50 H 55" />
+    </g>
+    
+    <!-- O (translated to X=328, Y=30) -->
+    <g transform="translate(328, 30)">
+      <path d="M 31,15 C 10,15 10,85 31,85" />
+      <path d="M 39,85 C 60,85 60,15 39,15" />
+    </g>
+    
+    <!-- M (translated to X=400, Y=30) -->
+    <g transform="translate(400, 30)">
+      <path d="M 15,15 V 85 M 55,15 V 85 M 20,22 L 35,50 L 50,22" />
+    </g>
+    
+    <!-- E (translated to X=472, Y=30) -->
+    <g transform="translate(472, 30)">
+      <path d="M 18,15 V 85 M 26,15 H 52 M 26,50 H 42 M 26,85 H 52" />
+    </g>
+    
+    <!-- T (translated to X=544, Y=30) -->
+    <g transform="translate(544, 30)">
+      <path d="M 15,15 H 55 M 35,23 V 85" />
+    </g>
+    
+    <!-- R (translated to X=616, Y=30) -->
+    <g transform="translate(616, 30)">
+      <path d="M 18,15 V 85 M 26,15 H 42 C 50,15 50,45 42,45 H 26 M 34,45 L 50,85" />
+    </g>
+    
+    <!-- Y (translated to X=688, Y=30) -->
+    <g transform="translate(688, 30)">
+      <path d="M 15,15 L 35,46 M 55,15 L 35,46 M 35,54 V 85" />
+    </g>
+  </g>
+</svg>
